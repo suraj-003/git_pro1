@@ -1,0 +1,149 @@
+h1{
+    text-align: center;
+    border: 1px solid gray;
+    padding: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: whitesmoke ;
+    color:red     ;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    font-size: 40px;
+    
+}
+h1:hover{
+    box-shadow: 5px 5px 1px 1px black;
+    border-radius: 10px;
+    transition: 0.5s ;
+}
+
+button{
+    background-color:linen;
+    display: inline-block;
+    margin-left: 325px;
+    flex-wrap: wrap;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    
+    font-size: 15px;
+    border-radius: 15px;
+    
+    
+    
+     
+   
+}
+
+button:hover{
+    color:darkorange;
+     box-shadow: 0 0 3px 1px black;
+    transition: 0.5s;
+    border-radius: 10px; 
+}
+
+.ani{
+    background-color: khaki;
+    color: chocolate;
+    width: 1000px;
+    height: 150px;
+    margin-top: 15px;
+    margin-left: 280px;
+    margin-right: 100px;
+    border-radius: 15px; */
+   font-size: large;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-weight: 900;
+   font-size:70px;
+
+}
+.ani:hover{
+     box-shadow: 0 0 5px 2px black;
+     transition: 0.5s;
+     color: red;
+}
+p{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+    
+}
+.btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+    background-color: linen;
+    border: none;
+    height: auto;
+}
+
+.one{
+    padding: 5px;
+    border: none;
+    font-size: large;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.one:hover{
+    
+    background-color: white;
+    border-radius: 10px;
+     color: chocolate;
+}
+.photo{
+ 
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 20px;
+    margin-left: 10px;
+    height: auto;
+    
+   
+
+
+
+}
+.sub{
+    width: 350px;
+    border: 2px solid white;
+   
+    height: auto;
+    
+    border-radius: 10px;
+}
+.sub:hover{
+    box-shadow: 0 0 5px 2px gray;
+}
+img{
+    height: 310px;
+    margin-top: 15px;
+    margin-left: 20px;
+    
+    border-radius: 15px;
+} 
+
+del
+ {   
+   margin-left: 10px;
+   color: rgba(0, 0, 0, 0.7);
+}
+
+b{
+    margin-left: 30px;
+    font-size: large;
+    
+}
+
+.input{
+    background-color: white;
+    padding: 8px 10px 5px 10px;
+   
+    margin-left: 10px;
+    margin-bottom: 5px;
+    font-size:medium;
+    font-weight: bold;
+}
