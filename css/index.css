@@ -1,16 +1,24 @@
-h1{
+.nav{
     text-align: center;
-    border: 1px solid gray;
-    padding: 15px;
-    margin-left: 100px;
-    margin-right: 100px;
-    background-color: whitesmoke ;
-    color:red     ;
-    word-spacing: 10px;
-    letter-spacing: 5px;
-    font-size: 40px;
-    
+    margin:0;
+    width: auto;
+    background-color:#f8e6cb ;
+    color:#d85d5d     ;
+    padding: 7px;
+    font-weight: 800px;
+    font-family: 'Arial', sans-serif;
+    border:10px solid #f8e6cb;
+   height: 100px;
+   
 }
+   
+    .size{
+        font-size: 30px;
+    }
+    
+
+    
+
 h1:hover{
     box-shadow: 5px 5px 1px 1px black;
     border-radius: 10px;
@@ -20,7 +28,9 @@ h1:hover{
 button{
     background-color:linen;
     display: inline-block;
-    margin-left: 325px;
+    margin-left:200px;
+    margin-top: 10px;
+    margin-right: 138px;
     flex-wrap: wrap;
     border: none;
     padding: 10px 20px 10px 20px;
